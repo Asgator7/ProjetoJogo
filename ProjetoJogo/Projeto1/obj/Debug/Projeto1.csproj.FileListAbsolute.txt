@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Programação\C#\LING2\ProjetoJogo\Projeto1\bin\Debug\Projeto1.exe.config
+C:\Users\Usuario\Desktop\Programação\C#\LING2\ProjetoJogo\Projeto1\bin\Debug\Projeto1.exe
+C:\Users\Usuario\Desktop\Programação\C#\LING2\ProjetoJogo\Projeto1\bin\Debug\Projeto1.pdb
+C:\Users\Usuario\Desktop\Programação\C#\LING2\ProjetoJogo\Projeto1\obj\Debug\Projeto1.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Programação\C#\LING2\ProjetoJogo\Projeto1\obj\Debug\Projeto1.FRM_Cadastro.resources
+C:\Users\Usuario\Desktop\Programação\C#\LING2\ProjetoJogo\Projeto1\obj\Debug\Projeto1.FRM_Login.resources
+C:\Users\Usuario\Desktop\Programação\C#\LING2\ProjetoJogo\Projeto1\obj\Debug\Projeto1.FRM_Menu.resources
+C:\Users\Usuario\Desktop\Programação\C#\LING2\ProjetoJogo\Projeto1\obj\Debug\Projeto1.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Programação\C#\LING2\ProjetoJogo\Projeto1\obj\Debug\Projeto1.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Programação\C#\LING2\ProjetoJogo\Projeto1\obj\Debug\Projeto1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Programação\C#\LING2\ProjetoJogo\Projeto1\obj\Debug\Projeto1.exe
+C:\Users\Usuario\Desktop\Programação\C#\LING2\ProjetoJogo\Projeto1\obj\Debug\Projeto1.pdb
+C:\Users\Usuario\Desktop\Programação\C#\LING2\ProjetoJogo\Projeto1\obj\Debug\Projeto1.FRM_Jogo.resources
+C:\Users\Usuario\Desktop\Programação\C#\LING2\ProjetoJogo\Projeto1\obj\Debug\Projeto1.FRM_Ranking.resources
+C:\Users\Usuario\Desktop\Programação\C#\LING2\ProjetoJogo\Projeto1\obj\Debug\Projeto1.FRM_ComoJogar.resources
+C:\Users\Usuario\Desktop\Programação\C#\LING2\ProjetoJogo\Projeto1\obj\Debug\Projeto1.FRM_Ajuda.resources
